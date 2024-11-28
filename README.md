@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sujaypandey12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1972-rotating-the-box](https://github.com/sujaypandey12/Leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sujaypandey12/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Matrix
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/sujaypandey12/Leetcode/tree/master/1972-rotating-the-box) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sujaypandey12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
