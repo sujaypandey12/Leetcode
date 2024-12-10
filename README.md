@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sujaypandey12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1972-rotating-the-box](https://github.com/sujaypandey12/Leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sujaypandey12/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sujaypandey12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sujaypandey12/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/sujaypandey12/Leetcode/tree/master/1972-rotating-the-box) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sujaypandey12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,9 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sujaypandey12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sujaypandey12/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sujaypandey12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sujaypandey12/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sujaypandey12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sujaypandey12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
