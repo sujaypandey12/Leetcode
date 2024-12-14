@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sujaypandey12/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sujaypandey12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sujaypandey12/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2868-continuous-subarrays](https://github.com/sujaypandey12/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sujaypandey12/Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Matrix
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sujaypandey12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2868-continuous-subarrays](https://github.com/sujaypandey12/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,12 +90,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/sujaypandey12/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sujaypandey12/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/sujaypandey12/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/sujaypandey12/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sujaypandey12/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sujaypandey12/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/sujaypandey12/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/sujaypandey12/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
