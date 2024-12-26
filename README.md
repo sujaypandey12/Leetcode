@@ -124,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/sujaypandey12/Leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/sujaypandey12/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
